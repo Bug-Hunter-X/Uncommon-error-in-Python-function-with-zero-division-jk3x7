@@ -1,0 +1,1 @@
+This repository contains an example of an uncommon error in Python related to zero division. The Python function demonstrates behavior where the results of the function depend on the position of 0 in the inputs, demonstrating a scenario of an unexpected behavior if not carefully handled.  The solution file provides a more robust approach.
